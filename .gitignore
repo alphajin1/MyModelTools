@@ -3,3 +3,5 @@ data
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 venv/
+*.model
+*.vocab
